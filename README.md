@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hello there 👋, I'm Alan 👱
 
-<!--
-**alanpoulain/alanpoulain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a French 🇫🇷 Web developer, currently working at the cooperative [Les-Tilleuls](https://les-tilleuls.coop) 🌳.
 
-Here are some ideas to get you started:
+I like backend stuff like **PHP**, **Symfony** and also **TypeScript**, **React** for the frontend.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm trying to get into **Rust** and/or **Python** as well.
+
+### 🌟 Open-source projects I maintain
+- In [API Platform](https://github.com/api-platform/core), I've created and I'm maintaining the [GraphQL](https://api-platform.com/docs/core/graphql/) system and the [MongoDB](https://api-platform.com/docs/core/mongodb) support.
+- Always in the API Platform ecosystem, I'm taking care of the JS [admin](https://github.com/api-platform/admin) component.
+- I've written a [Gatsby](https://www.gatsbyjs.org/) plugin to select code blocks: [gatsby-remark-code-selector](https://github.com/alanpoulain/gatsby-remark-code-selector).
+- I'm responsible for the TypeScript fork of [GeocoderJS](https://github.com/geocoder-php/geocoder-js): [Universal Geocoder 🌍](https://github.com/universal-geocoder/universal-geocoder-js).
+
+### ☕ Stay in touch!
+- Twitter: https://twitter.com/_alanpoulain
+- Symfony Slack: https://symfony.com/slack
+- LinkedIn: https://www.linkedin.com/in/alanpoulain
