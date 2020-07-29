@@ -15,5 +15,6 @@ I'm trying to get into **Rust** and/or **Python** as well.
 
 ### ☕ Stay in touch!
 - Twitter: https://twitter.com/_alanpoulain
-- Symfony Slack: https://symfony.com/slack
+- Symfony Slack: https://symfony.com/slack (alanpoulain)
+- Les communs Chat: http://chat.lescommuns.org (alan.poulain)
 - LinkedIn: https://www.linkedin.com/in/alanpoulain
