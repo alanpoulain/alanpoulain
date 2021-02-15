@@ -9,8 +9,9 @@ I'm trying to get into **Rust** and/or **Python** as well.
 ### 🌟 Open-source projects I maintain
 - In [API Platform](https://github.com/api-platform/core), I've created and I'm maintaining the [GraphQL](https://api-platform.com/docs/core/graphql/) system and the [MongoDB](https://api-platform.com/docs/core/mongodb) support.
 - Always in the API Platform ecosystem, I'm taking care of the JS [admin](https://github.com/api-platform/admin) component.
-- I've written a [Gatsby](https://www.gatsbyjs.org/) plugin to select code blocks: [gatsby-remark-code-selector](https://github.com/alanpoulain/gatsby-remark-code-selector).
 - I'm responsible for the TypeScript fork of [GeocoderJS](https://github.com/geocoder-php/geocoder-js): [Universal Geocoder 🌍](https://github.com/universal-geocoder/universal-geocoder-js).
+- I've created a Symfony bundle to create and validate signed URLs / routes: [UrlSignerBundle](https://github.com/coopTilleuls/UrlSignerBundle).
+- I've written a [Gatsby](https://www.gatsbyjs.org/) plugin to select code blocks: [gatsby-remark-code-selector](https://github.com/alanpoulain/gatsby-remark-code-selector).
 - Sometimes, I'm adding some features to the [GoGoCarto](https://gitlab.adullact.net/pixelhumain/GoGoCartoJs) project.
 
 ### ☕ Stay in touch!
